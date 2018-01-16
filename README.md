@@ -1,5 +1,5 @@
 # hello-world
-just try
+just a try
 
 
 hello,wworld!
